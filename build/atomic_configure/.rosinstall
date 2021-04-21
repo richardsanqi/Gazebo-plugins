@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lipi/gazebo_plugins/build/devel/setup.sh
